@@ -1,0 +1,162 @@
+# Truly Gourmet
+
+> Truly Gourmet is a Malaysian brand of soybean tempeh chips, started in a home kitchen in 2021 and made at our facility in Kajang, Selangor, Malaysia. 8 flavours; vegan, gluten-free, suitable for vegetarians, high in protein, good source of fibre. Halal by JAKIM. Manufactured in a FSSC:22000 FSMS certified facility. HACCP certified facility. Sold online, in grocers across Malaysia and in Singapore, and shipped internationally via EMS (gift boxes). The site is available in English (www.trulygourmet.co), Bahasa Melayu (ms.trulygourmet.co) and Simplified Chinese (zh.trulygourmet.co).
+
+## Products
+- [Tempeh Chips](https://www.trulygourmet.co/tempeh-chips/): all about our tempeh chips – how they're made, awards, nutrition, and FAQ
+- [Shop all flavours](https://www.trulygourmet.co/shop/): 8 flavours of tempeh chips, 80g packs, plus gift boxes
+- [Sea Salt](https://www.trulygourmet.co/product/sea-salt/): Monde Selection Gold 2025; Superior Taste Award 2025 (2 stars) – International Taste Institute; Great Taste 2026 (1 star)
+- [Garlic](https://www.trulygourmet.co/product/garlic/): Monde Selection Gold 2026; Superior Taste Award 2026 (2 stars) – International Taste Institute
+- [Sea Salt Light](https://www.trulygourmet.co/product/light-sea-salt/): Great Taste 2026 (1 star)
+- [Black Pepper](https://www.trulygourmet.co/product/black-pepper/): Great Taste 2026 (1 star)
+- [Cumin](https://www.trulygourmet.co/product/cumin/): Great Taste 2026 (1 star)
+- [Onion](https://www.trulygourmet.co/product/onion/)
+- [Indonesian Classic](https://www.trulygourmet.co/product/indonesian-classic/)
+- [Chives](https://www.trulygourmet.co/product/chives/)
+- [Chives (30g)](https://www.trulygourmet.co/product/chives-30g/)
+- [Indonesian Classic (30g)](https://www.trulygourmet.co/product/indonesian-30g/)
+- [Garlic (30g)](https://www.trulygourmet.co/product/garlic-30g/)
+- [Sea Salt (30g)](https://www.trulygourmet.co/product/sea-salt-30g/)
+- [6-Pack Tempeh Chips Gift Box](https://www.trulygourmet.co/product/6-pack/)
+- [12-Pack Tempeh Chips Gift Box](https://www.trulygourmet.co/product/12-pack/)
+- [24-Pack Tempeh Chips Gift Box + 1 Free](https://www.trulygourmet.co/product/24-pack/)
+
+## Produk (Bahasa Melayu)
+- [Kerepek Tempe Berperisa Garam Laut (80g)](https://ms.trulygourmet.co/product/sea-salt/)
+- [Kerepek Tempe Berperisa Bawang Putih (80g)](https://ms.trulygourmet.co/product/garlic/)
+- [Kerepek Tempe Berperisa Garam Laut Rendah Garam (80g)](https://ms.trulygourmet.co/product/light-sea-salt/)
+- [Kerepek Tempe Berperisa Lada Hitam (80g)](https://ms.trulygourmet.co/product/black-pepper/)
+- [Kerepek Tempe Berperisa Jintan Manis (80g)](https://ms.trulygourmet.co/product/cumin/)
+- [Kerepek Tempe Berperisa Klasik Indonesia (80g)](https://ms.trulygourmet.co/product/indonesian-classic/)
+- [Kerepek Tempe Berperisa Bawang Merah (80g)](https://ms.trulygourmet.co/product/onion/)
+- [Kerepek Tempe Berperisa Daun Kucai (80g)](https://ms.trulygourmet.co/product/chives/)
+- [Kerepek Tempe Berperisa Daun Kucai (30g)](https://ms.trulygourmet.co/product/chives-30g/)
+- [Kerepek Tempe Berperisa Klasik Indonesia (30g)](https://ms.trulygourmet.co/product/indonesian-30g/)
+- [Kerepek Tempe Berperisa Bawang Putih (30g)](https://ms.trulygourmet.co/product/garlic-30g/)
+- [Kerepek Tempe Berperisa Garam Laut (30g)](https://ms.trulygourmet.co/product/sea-salt-30g/)
+- [Kotak Hadiah Kerepek Tempe 6 Pek](https://ms.trulygourmet.co/product/6-pack/)
+- [Kotak Hadiah Kerepek Tempe 12 Pek](https://ms.trulygourmet.co/product/12-pack/)
+- [Kotak Hadiah Kerepek Tempe 24 Pek + 1 Percuma](https://ms.trulygourmet.co/product/24-pack/)
+
+## 产品（简体中文）
+- [海盐天贝脆片 (80g)](https://zh.trulygourmet.co/product/sea-salt/)
+- [蒜味天贝脆片 (80g)](https://zh.trulygourmet.co/product/garlic/)
+- [天贝脆片低盐 (80g)](https://zh.trulygourmet.co/product/light-sea-salt/)
+- [黑胡椒天贝脆片 (80g)](https://zh.trulygourmet.co/product/black-pepper/)
+- [孜然味天贝脆片 (80g)](https://zh.trulygourmet.co/product/cumin/)
+- [印尼经典味天贝脆片 (80g)](https://zh.trulygourmet.co/product/indonesian-classic/)
+- [洋葱味天贝脆片 (80g)](https://zh.trulygourmet.co/product/onion/)
+- [青葱味天贝脆片 (80g)](https://zh.trulygourmet.co/product/chives/)
+- [青葱味天贝脆片 (30g)](https://zh.trulygourmet.co/product/chives-30g/)
+- [印尼经典味天贝脆片 (30g)](https://zh.trulygourmet.co/product/indonesian-30g/)
+- [蒜味天贝脆片 (30g)](https://zh.trulygourmet.co/product/garlic-30g/)
+- [海盐天贝脆片 (30g)](https://zh.trulygourmet.co/product/sea-salt-30g/)
+- [天贝脆片6包礼盒](https://zh.trulygourmet.co/product/6-pack/)
+- [天贝脆片12包礼盒](https://zh.trulygourmet.co/product/12-pack/)
+- [天贝脆片24包礼盒 + 送1包](https://zh.trulygourmet.co/product/24-pack/)
+- [会员奖励](https://zh.trulygourmet.co/loyalty-and-rewards/)：消费 RM 1 得 1 积分；150 积分 = 免费一包 80g；每单限送一包
+
+## Company
+- [About Truly Gourmet](https://www.trulygourmet.co/about-us/): founding story, from a home kitchen in 2021 to our facility in Kajang
+- [Our Standards](https://www.trulygourmet.co/our-standards/): food safety and Halal certifications
+- [FAQ](https://www.trulygourmet.co/faq/): how the chips are made, allergens, Halal, shipping
+- [News, Awards & Press](https://www.trulygourmet.co/news/)
+- [Trusted Reviews](https://www.trulygourmet.co/trusted-reviews/): verified customer reviews collected by CusRev
+- [Gift Boxes & Corporate Gifts](https://www.trulygourmet.co/gifts/): 6, 12 and 24-pack tempeh chips gift boxes and corporate gifting
+- [Corporate & Hospitality](https://www.trulygourmet.co/corporate-hospitality/): bulk tempeh chips supply for offices, hotels, restaurants and cafés
+
+## News
+- [Healthy Snacks for the Office (That People Actually Eat)](https://www.trulygourmet.co/healthy-office-snacks-malaysia/): taste, diets and shelf life; snacks for halal, vegan and gluten-free colleagues, and bulk options
+- [Where to Buy Tempeh Chips in Singapore](https://www.trulygourmet.co/tempeh-chips-singapore/): Zenxin Organic in Pasir Panjang, plus RedMart, Amazon SG and Shopee
+- [Plant-Based Chips in Malaysia: What's Actually in the Crisps Aisle?](https://www.trulygourmet.co/plant-based-chips-malaysia/): protein, fibre and fat per 100 g for potato, corn, cassava and tempeh chips sold in Malaysia
+- [Tempeh Chips Calories and Nutrition, Flavour by Flavour](https://www.trulygourmet.co/tempeh-chips-calories-nutrition/): calories, protein, fibre, fat and sodium for all 8 Truly Gourmet tempeh chips, per 100 g and per pack
+- [Is Tempeh Halal? What to Check Before You Buy](https://www.trulygourmet.co/is-tempeh-halal/): what makes tempeh halal-sensitive, what JAKIM certification means and how to check a halal logo
+- [We Sent Our Chips to Britain to Be Judged by Strangers](https://www.trulygourmet.co/great-taste-awards-2026/): Great Taste 2026 results, 1 star each for Sea Salt, Sea Salt Light, Black Pepper and Cumin, with the judges' feedback
+- [Our Garlic Chips Score 84% in a Blind Tasting](https://www.trulygourmet.co/garlic-tempeh-chips-superior-taste-award-2026/): Garlic tempeh chips' Superior Taste Award 2026 (2 stars) from the International Taste Institute's blind sensory analysis
+- [Our Garlic Tempeh Chips Won Gold at Monde Selection 2026](https://www.trulygourmet.co/garlic-tempeh-chips-monde-selection-gold-2026/): Garlic tempeh chips' Monde Selection 2026 Gold Quality Award and what the jury assessed
+- [Truly Gourmet on BFM 财今 (Cai Jin)](https://www.trulygourmet.co/bfm-cai-jin-tempeh-chips-interview/): Chinese-language video interview about the Truly Gourmet tempeh chips story
+- [Making Tempeh a Truly Gourmet Brand, on BFM 89.9](https://www.trulygourmet.co/bfm-making-tempeh-a-truly-gourmet-brand/): radio interview with founder Ethan Wong on building a premium tempeh chips brand
+- [Sea Salt Tempeh Chips Win the Superior Taste Award 2025](https://www.trulygourmet.co/superior-taste-award-2025-sea-salt-tempeh-chips/): Sea Salt tempeh chips' Superior Taste Award 2025 (2 stars) from the International Taste Institute
+- [Onion Tempeh Chips Are Back](https://www.trulygourmet.co/onion-tempeh-chips-relaunch-malaysia/): the relaunch of Onion tempeh chips in Malaysia
+- [Sea Salt Tempeh Chips Win Gold at Monde Selection 2025](https://www.trulygourmet.co/monde-selection-2025-halal-tempeh-chips/): Sea Salt tempeh chips' Monde Selection 2025 Gold Quality Award
+- [Halal Tempeh Chips, Certified by JAKIM](https://www.trulygourmet.co/halal-tempeh-chips-jakim-malaysia/): Truly Gourmet tempeh chips Halal certified by JAKIM since 30 November 2024
+- [Our New Shipping Box Design](https://www.trulygourmet.co/truly-gourmets-new-shipping-boxes-design-for-your-online-shopping-experience/): the 2022 redesign of Truly Gourmet's online-order shipping boxes
+
+## Buying
+- [Where to Buy](https://www.trulygourmet.co/where-to-buy/)
+- [Stockists in Malaysia](https://www.trulygourmet.co/stockist-malaysia/)
+- [Stockists in Singapore](https://www.trulygourmet.co/stockist-singapore/)
+- [Shipping & Delivery (Malaysia)](https://www.trulygourmet.co/shipping-delivery/)
+- [International Shipping (EMS)](https://www.trulygourmet.co/international-shipping/)
+- [Cancellation & Refund Policy](https://www.trulygourmet.co/cancel-refund/)
+- [Contact Us](https://www.trulygourmet.co/contact-us/)
+- [Rewards](https://www.trulygourmet.co/loyalty-and-rewards/): earn 1 point per RM 1; 150 points = a free 80 g pack; welcome, birthday and every-5th-order rewards; one free pack per order
+
+## Bahasa Melayu (ms.trulygourmet.co)
+- [Kalori & Nutrisi Kerepek Tempe, Mengikut Perisa](https://ms.trulygourmet.co/tempeh-chips-calories-nutrition/): kalori, protein, serat, lemak dan natrium untuk 8 perisa, setiap 100 g dan setiap pek
+- [Kerepek Berasaskan Tumbuhan di Malaysia](https://ms.trulygourmet.co/plant-based-chips-malaysia/): protein, serat dan lemak setiap 100 g bagi kerepek kentang, jagung, ubi dan tempe
+- [Laman Utama](https://ms.trulygourmet.co/): kerepek tempe Truly Gourmet dalam Bahasa Melayu
+- [Kerepek Tempe](https://ms.trulygourmet.co/kerepek-tempe/): cara dibuat, anugerah, maklumat pemakanan dan soalan lazim
+- [Kedai](https://ms.trulygourmet.co/shop/): 8 perisa kerepek tempe dan kotak hadiah
+- [Tentang Kami](https://ms.trulygourmet.co/about-us/)
+- [Standard Kami](https://ms.trulygourmet.co/our-standards/): pensijilan keselamatan makanan dan Halal
+- [Soalan Lazim](https://ms.trulygourmet.co/faq/)
+- [Kotak Hadiah](https://ms.trulygourmet.co/gifts/)
+- [Ganjaran](https://ms.trulygourmet.co/loyalty-and-rewards/): 1 mata bagi setiap RM 1; 150 mata = 1 pek 80 g percuma; satu pek percuma setiap pesanan
+- [Korporat & Hospitaliti](https://ms.trulygourmet.co/corporate-hospitality/)
+- [Berita, Anugerah & Media](https://ms.trulygourmet.co/news/): semua artikel blog dalam Bahasa Melayu, di laluan yang sama seperti versi Inggeris
+- [Adakah Tempe Halal?](https://ms.trulygourmet.co/is-tempeh-halal/)
+- [Di Mana Boleh Dapatkan](https://ms.trulygourmet.co/where-to-buy/)
+- [Hubungi Kami](https://ms.trulygourmet.co/contact-us/)
+- [Penghantaran di Malaysia](https://ms.trulygourmet.co/shipping-delivery/)
+- [Penghantaran Antarabangsa](https://ms.trulygourmet.co/international-shipping/)
+- [Dapatkan Kerepek Tempe Di Malaysia](https://ms.trulygourmet.co/stockist-malaysia/)
+- [Di Mana Boleh Dapatkan Kerepek Tempe di Singapura](https://ms.trulygourmet.co/singapore-stockist/)
+- [Dasar Pembatalan dan Bayaran Balik](https://ms.trulygourmet.co/cancel-refund/)
+- [Ulasan Pelanggan Disahkan](https://ms.trulygourmet.co/trusted-reviews/)
+- [Snek Sihat untuk Pejabat (Yang Betul-betul Dimakan)](https://ms.trulygourmet.co/healthy-office-snacks-malaysia/)
+- [Kerepek Tempe di Singapura: Kedai dan Dalam Talian](https://ms.trulygourmet.co/tempeh-chips-singapore/)
+- [Empat Bintang Great Taste 2026 untuk Kerepek Tempe Truly Gourmet](https://ms.trulygourmet.co/great-taste-awards-2026/)
+- [Kerepek Tempe Bawang Putih: Superior Taste Award 2 Bintang 2026](https://ms.trulygourmet.co/garlic-tempeh-chips-superior-taste-award-2026/)
+- [Kerepek Tempe Bawang Putih Menang Monde Selection Gold 2026](https://ms.trulygourmet.co/garlic-tempeh-chips-monde-selection-gold-2026/)
+- [Truly Gourmet di BFM 财今 (Cai Jin)](https://ms.trulygourmet.co/bfm-cai-jin-tempeh-chips-interview/)
+- [Truly Gourmet di BFM 89.9: Menjadikan Tempe Jenama Gourmet](https://ms.trulygourmet.co/bfm-making-tempeh-a-truly-gourmet-brand/)
+- [Kerepek Tempe Garam Laut: Superior Taste Award 2 Bintang 2025](https://ms.trulygourmet.co/superior-taste-award-2025-sea-salt-tempeh-chips/)
+- [Kerepek Tempe Bawang Merah Kembali, dengan Resipi Lebih Baik](https://ms.trulygourmet.co/onion-tempeh-chips-relaunch-malaysia/)
+- [Kerepek Tempe Garam Laut Menang Monde Selection Gold 2025](https://ms.trulygourmet.co/monde-selection-2025-halal-tempeh-chips/)
+- [Kerepek Tempe Halal, Disahkan oleh JAKIM Malaysia](https://ms.trulygourmet.co/halal-tempeh-chips-jakim-malaysia/)
+- [Kerepek Tempe Truly Gourmet Kini Dihantar dalam Kotak Bergaya](https://ms.trulygourmet.co/truly-gourmets-new-shipping-boxes-design-for-your-online-shopping-experience/)
+
+## 简体中文 (zh.trulygourmet.co)
+- [天贝脆片热量与营养：8种口味逐一看](https://zh.trulygourmet.co/tempeh-chips-calories-nutrition/)：8种口味的热量、蛋白质、纤维、脂肪和钠，每100克和每包
+- [马来西亚的植物性脆片：零食架上到底有什么？](https://zh.trulygourmet.co/plant-based-chips-malaysia/)：马铃薯片、玉米片、木薯脆片和天贝脆片每100克的蛋白质、纤维和脂肪比较
+- [首页](https://zh.trulygourmet.co/)：Truly Gourmet 天贝脆片中文网站
+- [天贝脆片](https://zh.trulygourmet.co/tempeh-chips/)：制作方式、奖项、营养成分和常见问题
+- [网店](https://zh.trulygourmet.co/shop/)：8 款口味天贝脆片和礼盒
+- [关于我们](https://zh.trulygourmet.co/about-us/)
+- [我们的标准](https://zh.trulygourmet.co/our-standards/)：食品安全与清真认证
+- [常见问题](https://zh.trulygourmet.co/faq/)
+- [礼盒](https://zh.trulygourmet.co/gifts/)
+- [企业与酒店餐饮](https://zh.trulygourmet.co/corporate-hospitality/)
+- [新闻、奖项与媒体报道](https://zh.trulygourmet.co/news/)：所有博客文章的中文版，路径与英文版相同
+- [天贝是清真的吗？](https://zh.trulygourmet.co/is-tempeh-halal/)
+- [BFM 财今中文专访](https://zh.trulygourmet.co/bfm-cai-jin-tempeh-chips-interview/)
+- [购买地点](https://zh.trulygourmet.co/where-to-buy/)
+- [联系我们](https://zh.trulygourmet.co/contact-us/)
+- [马来西亚配送说明](https://zh.trulygourmet.co/shipping-delivery/)
+- [国际运送](https://zh.trulygourmet.co/international-shipping/)
+- [马来西亚哪里买天贝脆片](https://zh.trulygourmet.co/stockist-malaysia/)
+- [新加坡哪里买天贝脆片](https://zh.trulygourmet.co/stockist-singapore/)
+- [取消与退款政策](https://zh.trulygourmet.co/cancel-refund/)
+- [顾客真实评价](https://zh.trulygourmet.co/trusted-reviews/)
+- [办公室健康零食（真的会被吃完的那种）](https://zh.trulygourmet.co/healthy-office-snacks-malaysia/)
+- [在新加坡哪里买得到天贝脆片](https://zh.trulygourmet.co/tempeh-chips-singapore/)
+- [Truly Gourmet 天贝脆片荣获四颗 Great Taste 2026 星](https://zh.trulygourmet.co/great-taste-awards-2026/)
+- [蒜味天贝脆片：荣获 2026 Superior Taste Award 二星](https://zh.trulygourmet.co/garlic-tempeh-chips-superior-taste-award-2026/)
+- [蒜味天贝脆片荣获 2026 Monde Selection 金奖](https://zh.trulygourmet.co/garlic-tempeh-chips-monde-selection-gold-2026/)
+- [Truly Gourmet 登上 BFM 89.9：把天贝打造成美食品牌](https://zh.trulygourmet.co/bfm-making-tempeh-a-truly-gourmet-brand/)
+- [海盐天贝脆片：荣获 2025 Superior Taste Award 二星](https://zh.trulygourmet.co/superior-taste-award-2025-sea-salt-tempeh-chips/)
+- [洋葱味天贝脆片回归，配方全面升级](https://zh.trulygourmet.co/onion-tempeh-chips-relaunch-malaysia/)
+- [海盐天贝脆片荣获 2025 Monde Selection 金奖](https://zh.trulygourmet.co/monde-selection-2025-halal-tempeh-chips/)
+- [清真天贝脆片：获马来西亚 JAKIM 清真认证](https://zh.trulygourmet.co/halal-tempeh-chips-jakim-malaysia/)
+- [Truly Gourmet 天贝脆片换上时尚新纸箱](https://zh.trulygourmet.co/truly-gourmets-new-shipping-boxes-design-for-your-online-shopping-experience/)
