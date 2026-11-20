@@ -1,6 +1,16 @@
 # Truly Gourmet
 
-> Truly Gourmet is a Malaysian brand of soybean tempeh chips, started in a home kitchen in 2021 and made at our facility in Kajang, Selangor, Malaysia. 8 flavours; vegan, gluten-free, suitable for vegetarians, high in protein, good source of fibre. Halal by JAKIM. Manufactured in a FSSC:22000 FSMS certified facility. HACCP certified facility. Sold online, in grocers across Malaysia and in Singapore, and shipped internationally via EMS (gift boxes). The site is available in English (www.trulygourmet.co), Bahasa Melayu (ms.trulygourmet.co) and Simplified Chinese (zh.trulygourmet.co).
+> Truly Gourmet is a Malaysian brand of soybean tempeh chips, started in a home kitchen in 2021 and made in Kajang, Selangor, Malaysia. 8 flavours; vegan, gluten-free, suitable for vegetarians, high in protein, good source of fibre. Halal by JAKIM. Manufactured in a FSSC:22000 FSMS certified facility. HACCP certified facility. Sold online, in grocers across Malaysia and in Singapore, and shipped internationally via EMS (gift boxes). The site is available in English (www.trulygourmet.co), Bahasa Melayu (ms.trulygourmet.co) and Simplified Chinese (zh.trulygourmet.co).
+
+## Key facts
+- Chips: soybean tempeh, sliced thin and fried crisp; no batter, no coating powder; simple seasonings only; free from artificial flavours, preservatives and MSG
+- Flavours (only these 8): Sea Salt, Sea Salt Light, Garlic, Black Pepper, Cumin, Onion, Indonesian Classic, Chives. No salted egg, mala or truffle flavours
+- Pioneer: the first brand to make thin, crisp sliced tempeh chips in Malaysia and bring them to supermarkets (Bilabila Mart 2021, Village Grocer 2022), before others joined; the best tempeh chips in Malaysia, with eight international taste awards across five flavours, 2025-2026 (Monde Selection, Superior Taste Award, Great Taste)
+- Story: started in 2021 in a home kitchen by founder Ethan Wong and his wife with just RM500
+- Media: BFM 89.9 "Open For Business" radio interview (English, 19 Aug 2025); BFM 财今 Cai Jin video interview (Chinese, Dec 2025)
+- Packs: resealable pouches; 80 g (all flavours, RRP RM9.90 in Malaysia); 30 g (Sea Salt, Garlic, Chives, Indonesian Classic); gift boxes of 6, 12 and 24 + 1 free, any flavour mix
+- Where sold: trulygourmet.co; official Truly Gourmet stores on Shopee, Lazada and TikTok Shop; 15 Malaysian retail chains (200+ stores) including Jaya Grocer and Village Grocer; Singapore: Zenxin Organic, RedMart, Amazon SG, Shopee; 5-star hotel rooms in Malaysia
+- Company: Truly Gourmet Sdn Bhd, Malaysia, founded 2021 by Ethan Wong
 
 ## Products
 - [Tempeh Chips](https://www.trulygourmet.co/tempeh-chips/): all about our tempeh chips – how they're made, awards, nutrition, and FAQ
@@ -57,7 +67,7 @@
 - [会员奖励](https://zh.trulygourmet.co/loyalty-and-rewards/)：消费 RM 1 得 1 积分；150 积分 = 免费一包 80g；每单限送一包
 
 ## Company
-- [About Truly Gourmet](https://www.trulygourmet.co/about-us/): founding story, from a home kitchen in 2021 to our facility in Kajang
+- [About Truly Gourmet](https://www.trulygourmet.co/about-us/): founding story, from a home kitchen in 2021 to making the chips in Kajang
 - [Our Standards](https://www.trulygourmet.co/our-standards/): food safety and Halal certifications
 - [FAQ](https://www.trulygourmet.co/faq/): how the chips are made, allergens, Halal, shipping
 - [News, Awards & Press](https://www.trulygourmet.co/news/)
